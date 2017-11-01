@@ -1,0 +1,65 @@
+body{
+ /* background-color: lightblue;*/
+  background-position: center;
+  font-family: 'verdana', Sans-serif;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  width: 950px;
+  padding: 0px;
+  margin: 0 auto;
+  background-image: url("images/stars.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+
+
+p{
+  font-size: 18px;
+  font-style: normal;
+  font-family: 'Arial', Sans-serif; 
+}
+
+
+h1{
+    color: red;
+    font-size: 30px;
+    font-style: normal; 
+}
+
+
+.table{
+    font-family: 'Console', Monospace;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal; 
+    text-align: center;
+    overflow: hidden;
+}
+th{
+  border: 2px solid yellow;
+  text-align: center; 
+  font-family: 'Lucida', monospace; 
+  font-size: 18px;
+  height: 50px;
+ 
+  padding: 10px;
+}
+
+td{
+  border: 1px solid yellow;
+  font-family: 'Lucida', Monospace;
+  font-size: 16px;
+  text-align: center;
+  padding:10px;
+  
+}
+
+th{
+  text-decoration: underline;
+}
+
+p {
+  color: violet ;
+}
